@@ -39,11 +39,11 @@ By default, this will be install to your C drive in your program files folder. A
 
 10. You can see the picture taken from your OV7670 Camera Module Sensor in your "out" folder in c drive. It will display in the cmd, something like this-
 
-#### - Port name: COM2
-#### - Looking for image
-#### - Found image: 0
-#### - Saved image: 0
-#### - Looking for image
-#### - Found image: 1
-#### - Saved image: 1.......
+ - Port name: COM2
+ - Looking for image
+ - Found image: 0
+ - Saved image: 0
+ - Looking for image
+ - Found image: 1
+ - Saved image: 1.......
 
