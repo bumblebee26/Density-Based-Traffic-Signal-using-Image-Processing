@@ -37,7 +37,8 @@ By default, this will be install to your C drive in your program files folder. A
 
 9. Open cmd and open the folder wherein the code folder is by writing its address. Mine is "C:\Program Files\Java\jdk1.8.0_74\bin".  Click enter and it will give u "C:\Program Files\Java\jdk1.8.0_74\bin>". Now, write "java code.SimpleRead". It supposed to be like this---> ### C:\Program Files\Java\jdk1.8.0_74\bin>java code.SimpleRead
 
-10. You can see the picture taken from your OV7670 Camera Module Sensor in your "out" folder in c drive. In the cmd, it will show this-
+10. You can see the picture taken from your OV7670 Camera Module Sensor in your "out" folder in c drive.
 ![alt text](https://cdn.instructables.com/FAJ/Z2Y0/IUOHNZSG/FAJZ2Y0IUOHNZSG.LARGE.jpg)
+
 
 
