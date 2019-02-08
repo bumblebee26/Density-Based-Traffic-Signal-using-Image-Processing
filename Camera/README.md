@@ -12,7 +12,7 @@ The camera module used is OV7670 1/5-Inch 0.3-Megapixel Camera Module. You can c
 
 ### Pin connection (OV7670>>>Arduino Uno) :
 
-You can refer the pin diagram from [picture alt](https://i.imgur.com/KyPlsRB.png"Title is optional").
+You can refer the pin diagram from ![alt text](https://i.imgur.com/KyPlsRB.png)
 
 ### Steps to proceed further :
 
