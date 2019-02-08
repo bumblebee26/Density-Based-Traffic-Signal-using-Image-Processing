@@ -11,8 +11,7 @@ The camera module used is OV7670 1/5-Inch 0.3-Megapixel Camera Module. You can c
 6. Jumper Cables (18 Male to Female & 10 Male to Male)
 
 ### Pin connection (OV7670>>>Arduino Uno) :
-
-You can refer the pin diagram from ![alt text](https://i.imgur.com/KyPlsRB.png)
+![alt text](https://i.imgur.com/KyPlsRB.png)
 
 ### Steps to proceed further :
 
@@ -23,7 +22,8 @@ By default, this will be install to your C drive in your program files folder. A
 
 3. Open the Code folder and open the 'UNO.ino' or 'Mega_OR_UNO.ino' file (both are working).
 
-4. In the Arduino IDE application you can see the port in which your Arduino UNO/MEGA 2560 is connected. It is in the bottom right corner. eg: Arduino/Genuino Mega on COM1. You can change the port by following the below steps : Control Panel > Device Manager > Ports (COM & LPT) > right click > Properties > Port Settings > Advanced > COM Port Number > /Select Your Port Number/.
+4. In the Arduino IDE application you can see the port in which your Arduino UNO/MEGA 2560 is connected. It is in the bottom right corner. eg: Arduino/Genuino Mega on COM1. You can change the port by following the below steps : Control Panel > Device Manager > Ports (COM & LPT) > right click > Properties > Port Settings > Advanced > COM Port Number > /Select Your Port Number/. 
+![alt text](https://cdn.instructables.com/F1Z/40PU/IUKEXHX5/F1Z40PUIUKEXHX5.LARGE.jpg)
 
 5. Now according to your port number copy the 'com_X' folder. eg: Mine is 'com_1'. And paste the com folder to this destination "C:\Program Files\Java\jdk1.8.0_74\bin".
 
@@ -37,13 +37,6 @@ By default, this will be install to your C drive in your program files folder. A
 
 9. Open cmd and open the folder wherein the code folder is by writing its address. Mine is "C:\Program Files\Java\jdk1.8.0_74\bin".  Click enter and it will give u "C:\Program Files\Java\jdk1.8.0_74\bin>". Now, write "java code.SimpleRead". It supposed to be like this---> ### C:\Program Files\Java\jdk1.8.0_74\bin>java code.SimpleRead
 
-10. You can see the picture taken from your OV7670 Camera Module Sensor in your "out" folder in c drive. It will display in the cmd, something like this-
+10. You can see the picture taken from your OV7670 Camera Module Sensor in your "out" folder in c drive. It will display in the cmd, something like this- ![alt text](https://cdn.instructables.com/FAJ/Z2Y0/IUOHNZSG/FAJZ2Y0IUOHNZSG.LARGE.jpg)
 
- - Port name: COM2
- - Looking for image
- - Found image: 0
- - Saved image: 0
- - Looking for image
- - Found image: 1
- - Saved image: 1.......
 
