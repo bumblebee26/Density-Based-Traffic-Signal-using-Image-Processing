@@ -1,5 +1,5 @@
 Hello, You can initiate the project from this part.
-The camera module used is OV7670 1/5-Inch 0.3-Megapixel Camera Module.You can check its description <a href="https://hackerstore.nl/PDFs/camera.pdf">here</a>.
+The camera module used is OV7670 1/5-Inch 0.3-Megapixel Camera Module. You can check its description <a href="https://hackerstore.nl/PDFs/camera.pdf">here</a>.
 
 ### Components Required :
 
@@ -47,11 +47,11 @@ Now, write "java code.SimpleRead". It supposed to be like this---> ### C:\Progra
 10. You can see the picture taken from your OV7670 Camera Module Sensor in your "out" folder in c drive.
 It will display in the cmd, something like this-
 
-Port name: COM2
-Looking for image
-Found image: 0
-Saved image: 0
-Looking for image
-Found image: 1
-Saved image: 1.......
+*. Port name: COM2
+*. Looking for image
+*. Found image: 0
+*. Saved image: 0
+*. Looking for image
+*. Found image: 1
+*. Saved image: 1.......
 
