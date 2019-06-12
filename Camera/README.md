@@ -27,7 +27,7 @@ By default, this will be install to your C drive in your program files folder. A
 
 5. Now according to your port number copy the 'com_X' folder. eg: Mine is 'com_1'. And paste the com folder to this destination "C:\Program Files\Java\jdk1.8.0_74\bin".
 
-6. Create a "out" folder in your C drive ("C:\"). The captured frames will be stored here.
+6. Create a "out" folder in your C drive ("C:\"). The captured frames will be stored here 
 
 7. Open the "Extra" folder and copy "win32com.dll" in the "C:\Program Files\Java\jdk1.8.0_74\jre\bin" directory.
 
